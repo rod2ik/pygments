@@ -203,6 +203,7 @@ Other contributors, listed alphabetically, are:
 * Ken Schutte -- Matlab lexers
 * René Schwaiger -- Rainbow Dash style
 * Sebastian Schweizer -- Whiley lexer
+* Rodrigo Schwencke -- Pseudocode Lexer
 * Tassilo Schweyer -- Io, MOOCode lexers
 * Pablo Seminario -- PromQL lexer
 * Ted Shaw -- AutoIt lexer
